@@ -28,5 +28,13 @@ This project analyzes Bitcoin (BTC) market data using technical indicators to ge
   - **SELL**: RSI > 70 and EMA(9) < EMA(21)  
 ✅ Plots the BTC price with signals and moving averages  
 ✅ Calculates the returns for each completed trade  
-✅ Outputs average return and individual trade performance  
+✅ Outputs average return and individual trade performance
+
+## Note:
+
+Make sure you have Python and pip installed on your system. Then, run the following command in your terminal or command prompt to install all required packages:
+
+pip install -r requirements.txt
+
+
 
