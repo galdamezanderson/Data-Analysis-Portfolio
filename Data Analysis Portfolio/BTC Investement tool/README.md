@@ -30,5 +30,3 @@ This project analyzes Bitcoin (BTC) market data using technical indicators to ge
 ✅ Calculates the returns for each completed trade  
 ✅ Outputs average return and individual trade performance  
 
-## 📁 Project Structure
-
