@@ -24,12 +24,12 @@ Visualization/ – Includes the Power BI dashboard (.pbix) and a folder of scree
 Documentation/ – Contains the final report with findings and strategic insights in PDF format.
 
 # Tools Used:
-SQL (reusable scripts)
-PostgreSQL (SQL queries for managing dataset)
-VS Code (reading CSV as text to adjust format)
-Power Query (Automate cleaning and normalization of data from CSV files)
-Excel (Refine data cleaning)
-Power BI (Data modeling and relationship management between multiple tables + dashboard creation)
+• SQL (reusable scripts)
+• PostgreSQL (SQL queries for managing dataset)
+• VS Code (reading CSV as text to adjust format)
+• Power Query (Automate cleaning and normalization of data from CSV files)
+• Excel (Refine data cleaning)
+• Power BI (Data modeling and relationship management between multiple tables + dashboard creation)
 
 
 This project serves as part of a broader data analytics portfolio and demonstrates the ability to work across datasets, extract insights, and communicate findings through professional visualizations and reports
